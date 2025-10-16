@@ -60,7 +60,7 @@ index.html
     © 2025 <span>B. Likhitha</span> | All Rights Reserved
   </footer>
 </body>
-</html>
+</html>                                                                                                                                                                                                                                                        
 style.css
 /* Reset and Base Styles */
 * {
